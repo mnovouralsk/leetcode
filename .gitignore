@@ -1,0 +1,11 @@
+*.env
+venv/
+
+log/
+*.log
+fsm_backup.json
+
+*.db
+config.py
+
+__pycache__/
